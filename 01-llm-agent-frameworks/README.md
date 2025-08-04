@@ -108,5 +108,11 @@ Assessed both frameworks based on:
 
 - **Completed:** May 2024  
 - **Course:** Responsible AI & Data Ethics (BA840), Boston University MSBA
+- This exercise was a team effort by the following contributors:
+  - Gunjan Sharma
+  - Jasmine Gohil
+  - Jenil Shah
+  - Saachi Dholakia
+  - Sneha Ekka
 
-*This project demonstrates the power—and tradeoffs—of agentic LLM frameworks for automating real-world business processes, and provides a template for evidence-based evaluation in future AI solution deployments.*
+*This project demonstrates the power and tradeoffs of agentic LLM frameworks for automating real-world business processes, and provides a template for evidence-based evaluation in future AI solution deployments.*
