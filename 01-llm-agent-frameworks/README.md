@@ -110,6 +110,3 @@ Assessed both frameworks based on:
 - **Course:** Responsible AI & Data Ethics (BA840), Boston University MSBA
 
 *This project demonstrates the power—and tradeoffs—of agentic LLM frameworks for automating real-world business processes, and provides a template for evidence-based evaluation in future AI solution deployments.*
-
-: Andrew Ng, DeepLearning.AI "Agentic Design Patterns" Blogs[1]
-: BA840-Team-08-Travel-Itinerary-Agent-Report.pdf, Team Notebooks (AutoGen, CrewAI), Exercise Instructions.[2]
