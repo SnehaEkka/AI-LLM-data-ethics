@@ -30,6 +30,8 @@ As someone passionate about building scalable, human-centered data systems, I wo
 
 As AI technologies increasingly influence decisions and experiences, **ethical fluency is as important as technical skill**. This repository underscores my belief that the most impactful data professionals bake *fairness, transparency, and interpretability* into systems from the start.
 
-Whether designing AI analytics, pipelines, or dialogue systems, I strive to blend strong engineering with ethical foresight. This project is a living demonstration of that commitment—a foundation for more trustworthy, human-aligned innovation.
+Whether designing AI analytics, pipelines, or dialogue systems, I strive to blend strong engineering with ethical foresight. This project is a living demonstration of that commitment, a foundation for more trustworthy, human-aligned innovation.
+
 ---
+
 👩💻 Created with curiosity, caution, and care. If you also believe responsible AI must be built in, not bolted on, let’s connect.
